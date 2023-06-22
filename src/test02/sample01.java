@@ -8,7 +8,7 @@ public class sample01 {
 		System.out.println("むらさきだぴょ～ん^_^←？");
 		System.out.println("伊山ぐう有能");
 		System.out.println("うんち");
-
+		System.out.println("うんこかけごはん");
 	}
 
 }
