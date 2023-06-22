@@ -6,6 +6,7 @@ public class sample01 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("むらさきだぴょ～ん^_^←？");
 		System.out.println("伊山ぐう有能");
+		System.out.println("うんち");
 	}
 
 }
